@@ -1,0 +1,15 @@
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\bin\Debug\net9.0\Consultar_Saldo.exe
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\bin\Debug\net9.0\Consultar_Saldo.deps.json
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\bin\Debug\net9.0\Consultar_Saldo.runtimeconfig.json
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\bin\Debug\net9.0\Consultar_Saldo.dll
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\bin\Debug\net9.0\Consultar_Saldo.pdb
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.AssemblyInfoInputs.cache
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.AssemblyInfo.cs
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.csproj.CoreCompileInputs.cache
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.sourcelink.json
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.dll
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\refint\Consultar_Saldo.dll
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.pdb
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\Consultar_Saldo.genruntimeconfig.cache
+C:\Users\128000\Desktop\nada\Trabalho_De_PSI_2\Consultar_Saldo\obj\Debug\net9.0\ref\Consultar_Saldo.dll
