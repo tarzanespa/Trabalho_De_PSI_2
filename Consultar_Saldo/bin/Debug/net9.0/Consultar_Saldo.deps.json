@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Consultar_Saldo/1.0.0": {
+        "runtime": {
+          "Consultar_Saldo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consultar_Saldo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
