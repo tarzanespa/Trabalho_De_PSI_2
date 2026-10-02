@@ -2,6 +2,7 @@
 {
     void main()
     {
-        Console.WriteLine("Tens conta?");
+        Console.WriteLine("Tens conta?(S/N)");
+        string 
     }
 }
